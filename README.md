@@ -59,6 +59,9 @@ Some programming experience is also recommended.
 
     This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition. 
 
+*[ MIT - Understandiing the Foundation of Deep Learning](https://www.youtube.com/watch?v=ErnWZxJovaM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) 
+
+Understading the foundation of deep learinig throught various models and with hands on experience on its implementation
 
 ## Advanced Lectures
 
